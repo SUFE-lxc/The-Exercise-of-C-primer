@@ -1,0 +1,2 @@
+numbers.find(name) 会返回string::npos
+（理解find和find_first_of)
